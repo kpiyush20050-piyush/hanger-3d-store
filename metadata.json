@@ -1,0 +1,6 @@
+{
+  "name": "AETHEL / STUDIO - 3D Streetwear Rail",
+  "description": "Ultra-aesthetic 3D interactive streetwear clothing rack showroom with dynamic physics, rail navigation, 360 flip, and product manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
